@@ -1,6 +1,6 @@
 # Árvore Binária de Busca - INCOMPLETO
 Programa em C que utiliza uma Árvore Binária de Busca. O programa cria um arquivo txt com números aleatórios entre 100 e 999 e a partir deste arquivo gera uma árvore binária que tem como nó o número que mais se aproxima da média.
-Feito para disciplina de Estrutura de Dados do curso Análise e Desenvolvimento de Sistemas da UFPR em Abril/2017.
+Feito para disciplina de Estrutura de Dados do curso Análise e Desenvolvimento de Sistemas da UFPR em Julho/2017.
 
 ## Funcionalidades
 * Gera arquivo .txt com os números;
